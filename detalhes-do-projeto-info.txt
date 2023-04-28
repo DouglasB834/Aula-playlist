@@ -1,0 +1,4 @@
+===== Pontos sobre o projeto final ======
+1 - anexar os arquivos do projeto , junto com a apresentação (A gravação do aluno fazendo a explicação sobre as tecnolonogias utilizadas, fluxo da requisições e uma apresentação do codigo do Front-end e Back-end).
+
+Programa para gravar (OBS)
